@@ -1,5 +1,9 @@
 # Playing with Perfetto
 
+**Read detailed post:** https://blog.shreyaspatil.dev/mastering-android-app-performance-analyzing-bottlenecks-with-perfetto
+
+## Tracing with Perfetto 
+
 - Checkout directory [`/perfetto`](/perfetto)
 - Run the application on device/emulator
 - Connect device/emulator via ADB
