@@ -10,3 +10,4 @@
 ```
 
 - After you're done playing with app, press <kbd>command</kbd> + <kbd>C</kbd>
+- Once analysis is done, trace details will be automatically launched in one of the Browsers installed in your machine.
